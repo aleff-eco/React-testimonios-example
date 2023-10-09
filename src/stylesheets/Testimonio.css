@@ -1,0 +1,47 @@
+.contenedor-testimonio{
+    width: 1170px;
+    height: 368px;
+    margin:  10px 10px 50px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    background-color: #7087aa;
+    box-shadow: 0 3px 13px 1px rgba(196, 196, 196, 0.692);
+    border-radius: 1rem;
+}
+
+.imagen-testimonio{
+    height: 100%;
+    width: 40%;
+    margin-right: 20px;
+    border-radius: 1rem;
+}
+
+.contenedor-texto-testimonio{
+    text-align: center;
+    padding: 40px 40px;
+    font-family: lato, sans-serif;
+    font-weight: 400;
+    line-height: 1.5rem;
+    font-size: 18px;
+    flex: 1;
+}
+
+.nombre-testimonio{
+    font-size: 1.8rem;
+}
+
+.titulo-testimonio{
+    font-size: 1.2rem;
+    margin-top: 15px;
+    padding-bottom: 30px;
+    font-weight: 790;
+}
+
+.contenido-testimonio{
+    font-size: 1.5rem;
+    text-align: justify;
+    padding: 20px 40px;
+}
+
